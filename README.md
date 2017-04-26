@@ -1,6 +1,6 @@
 # Setup Instructions
 ```bash
-git clone https://github.com/droberts-ada/backbone-live-code.git
+git clone https://github.com/Ada-CX/backbone-live-code.git
 cd backbone-live-code
 npm install
 npm start
